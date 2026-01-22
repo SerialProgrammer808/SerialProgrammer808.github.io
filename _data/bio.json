@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2027.",
     "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "SerialProgrammer808", "url": "http://github.com/SerialProgrammer" },
-      { "network": "linkedin", "username": "Noah Asano", "url": "http://https://www.linkedin.com/in/noah-asano-9b1a24328/" },
+      { "network": "github", "username": "SerialProgrammer808", "url": "https://github.com/SerialProgrammer" },
+      { "network": "linkedin", "username": "Noah Asano", "url": "https://www.linkedin.com/in/noah-asano-9b1a24328/" },
     ]
   },
   "interests": [
