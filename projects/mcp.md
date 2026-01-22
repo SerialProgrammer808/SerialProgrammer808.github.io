@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/gemini/gemini-square.png
+image: img/51DBd7O6GEL.jpg
 title: "AI-Powered Project Knowledge Manager (Gemini Observatory)"
 date: 2025
 published: true
