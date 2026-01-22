@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/finance/finance-square.png
+image: img/download.jpg
 title: "Personal Finance Tracker"
 date: 2025
 published: true
