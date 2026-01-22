@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/download.jpg
+image: https://noah-asano.github.io/img/download.jpg
 title: "Personal Finance Tracker"
 date: 2025
 published: true
