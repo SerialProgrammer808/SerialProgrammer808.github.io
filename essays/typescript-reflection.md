@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Maybe it's More Difficult Because It's More Worth it"
+title: "Difficult, but Worth it"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-25
 published: true
